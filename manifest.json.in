@@ -1,0 +1,17 @@
+{
+    "name": "pageheader4.liu-xiao-guo",
+    "description": "description of pageheader4",
+    "architecture": "@CLICK_ARCH@",
+    "title": "pageheader4",
+    "hooks": {
+        "pageheader4": {
+            "apparmor": "pageheader4/pageheader4.apparmor",
+            "desktop":  "pageheader4/pageheader4.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
